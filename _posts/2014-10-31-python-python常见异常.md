@@ -2,7 +2,7 @@
 title: Python 常见异常
 layout: post
 category : python
-tagline: ""
+tagline: "不积跬步，无以至千里；不积小流，无以成江海。"
 tags : [python]
 ---
 ##### Python常见异常
@@ -17,4 +17,5 @@ tags : [python]
 - 3 NameError:  
 	- 访问了不存在的变量名
 
-- 4
+- 4 ZeroDivisionError:
+	- 使用除法或者去模计算时除数为0
