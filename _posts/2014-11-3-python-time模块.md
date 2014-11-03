@@ -9,7 +9,7 @@ tags : [python]
 ```python
     time.time()  #1415022953.471965
 ```
-- time.strftime() **格式化输出**
+- time.strftime() **格式化输出**  
 ```python
  	time.strftime('%Y-%m-%d %H:%M:%S')  #'2014-11-03 21:57:06'	
 ```
