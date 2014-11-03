@@ -5,10 +5,10 @@ category : python
 tagline: "不积跬步，无以至千里；不积小流，无以成江海。"
 tags : [python]
 ---
-- time.time **获取当前时间的[时间戳](http://zh.wikipedia.org/zh-cn/%E6%99%82%E9%96%93%E6%88%B3)**
+- time.time **获取当前时间的[时间戳](http://zh.wikipedia.org/zh-cn/%E6%99%82%E9%96%93%E6%88%B3)**  
 ```python
     time.time()  #1415022953.471965
-```
+```  
 - time.strftime() **格式化输出**  
 ```python
  	time.strftime('%Y-%m-%d %H:%M:%S')  #'2014-11-03 21:57:06'	
