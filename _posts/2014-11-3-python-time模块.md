@@ -13,11 +13,11 @@ tags : [python]
 ```python
  	time.strftime('%Y-%m-%d %H:%M:%S')  #'2014-11-03 21:57:06'	
 ```
-- time.clock() **返回程序运行时间**
+- time.clock() **返回程序运行时间**  
 ```python
 	time.clock() #0.193492
 ```
-- time.localtime() **将时间戳转换成UTC时区(当前时区)struct_time**
+- time.localtime() **将时间戳转换成UTC时区(当前时区)struct_time**  
 ```python
 	time.localtime()
     
